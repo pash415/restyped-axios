@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/rawrmaan/restyped-axios#readme",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^10.8.1",
     "restyped": "1.1.0",
-    "typescript": "^2.9.2"
+    "typescript": "^5.5.2"
   }
 }
